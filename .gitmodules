@@ -1,0 +1,3 @@
+[submodule "canopennetworkclient"]
+	path = canopennetworkclient
+	url = git@github.com:geoffrey-vl/canopennetworkclient.git
